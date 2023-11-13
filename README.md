@@ -1,4 +1,4 @@
 # Tryout
 ILL instructional
-x= hi
+x= bye
 
